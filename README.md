@@ -1,4 +1,4 @@
-# django-colletion-of-countries
+# django-collection-of-countries
 ## Requirements
 `asgiref==3.7.2`
 
